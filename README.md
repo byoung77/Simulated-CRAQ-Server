@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Simulated-CRAQ-Server** is a Go project that implements a small distributed-systems simulation based on **Chain Replication with Asynchronous Queries (CRAQ)**.
+**Simulated-CRAQ-Server** is a Go implementation of a distributed storage system based on **Chain Replication with Asynchronous Queries (CRAQ)**, designed to make replication, consistency, and message-passing behavior observable and interactive.
 
 The project models a networked environment consisting of:
 
