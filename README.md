@@ -244,6 +244,17 @@ The current implementation includes stubs for chain reconfiguration (e.g., Updat
 
 ---
 
+## Stress Testing and Validation
+
+A deterministic stress test is included to demonstrate system behavior under interleaved reads and writes.
+
+See: `stress_tests/CRAQ_Stress_Test.go`
+
+💡 Insight:
+Because CRAQ allows reads from non-tail replicas, consistency becomes a function of both replication state and timing. This test makes those timing-dependent behaviors visible by forcing controlled overlaps between reads and writes.
+
+---
+
 ## Final Notes
 
 This project emphasizes:
