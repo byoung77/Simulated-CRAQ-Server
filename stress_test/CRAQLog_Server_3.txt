@@ -1,0 +1,76 @@
+[15:52:50.570]	CRAQLog Server 3 (tail) started at time 15:52:50.
+
+[15:52:50.761]	CRAQ Server 3 received write request.
+
+[15:52:50.844]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:50.886]	CRAQ Server 3 received write request.
+
+[15:52:50.923]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:50.923]	CRAQ Server 3 received write request.
+
+[15:52:50.973]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:51.105]	CRAQ Server 3 received write request.
+
+[15:52:51.139]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:51.262]	CRAQ Server 3 received write request.
+
+[15:52:51.321]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:52.709]	CRAQ Server 3 received read request.
+
+[15:52:54.750]	CRAQ Server 3 received read request.
+
+[15:52:56.770]	CRAQ Server 3 received read request.
+
+[15:52:56.863]	CRAQ Server 3 received write request.
+
+[15:52:56.916]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:58.949]	CRAQ Server 3 received write request.
+
+[15:52:58.973]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:59.050]	CRAQ Server 3 received write request.
+
+[15:52:59.140]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:52:59.140]	CRAQ Server 3 received write request.
+
+[15:52:59.163]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:01.141]	CRAQ Server 3 received write request.
+
+[15:53:01.196]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:01.204]	CRAQ Server 3 received read request.
+
+[15:53:01.222]	CRAQ Server 3 received write request.
+
+[15:53:01.310]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:01.351]	CRAQ Server 3 received write request.
+
+[15:53:01.429]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:03.243]	CRAQ Server 3 received read request.
+
+[15:53:05.310]	CRAQ Server 3 received read request.
+
+[15:53:05.455]	CRAQ Server 3 received write request.
+
+[15:53:05.486]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:05.553]	CRAQ Server 3 received write request.
+
+[15:53:05.577]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:05.595]	CRAQ Server 3 received write request.
+
+[15:53:05.672]	CRAQ Server 3 (tail) sending commit back up chain.
+
+[15:53:07.459]	CRAQ Server 3 received read request.
+

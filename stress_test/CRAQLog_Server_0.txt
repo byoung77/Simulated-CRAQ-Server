@@ -1,0 +1,78 @@
+[15:52:50.570]	CRAQLog Server 0 (head) started at time 15:52:50.
+
+[15:52:50.570]	CRAQ Server 0 received write request.
+
+[15:52:50.669]	CRAQ Server 0 received write request.
+
+[15:52:50.768]	CRAQ Server 0 received write request.
+
+[15:52:50.813]	CRAQ Server 0 received write request.
+
+[15:52:50.839]	CRAQ Server 0 received write request.
+
+[15:52:51.112]	CRAQ Server 0 received commit request.
+
+[15:52:51.151]	CRAQ Server 0 received commit request.
+
+[15:52:51.274]	CRAQ Server 0 received commit request.
+
+[15:52:51.312]	CRAQ Server 0 received commit request.
+
+[15:52:51.391]	CRAQ Server 0 received commit request.
+
+[15:52:52.678]	CRAQ Server 0 received read request.
+
+[15:52:54.719]	CRAQ Server 0 received read request.
+
+[15:52:56.770]	CRAQ Server 0 received write request.
+
+[15:52:56.821]	CRAQ Server 0 received read request.
+
+[15:52:57.004]	CRAQ Server 0 received commit request.
+
+[15:52:58.880]	CRAQ Server 0 received write request.
+
+[15:52:58.906]	CRAQ Server 0 received write request.
+
+[15:52:58.986]	CRAQ Server 0 received write request.
+
+[15:52:59.030]	CRAQ Server 0 received read request.
+
+[15:52:59.150]	CRAQ Server 0 received commit request.
+
+[15:52:59.258]	CRAQ Server 0 received commit request.
+
+[15:52:59.342]	CRAQ Server 0 received commit request.
+
+[15:53:00.990]	CRAQ Server 0 received write request.
+
+[15:53:01.045]	CRAQ Server 0 received write request.
+
+[15:53:01.134]	CRAQ Server 0 received write request.
+
+[15:53:01.188]	CRAQ Server 0 received read request.
+
+[15:53:01.340]	CRAQ Server 0 received commit request.
+
+[15:53:01.369]	CRAQ Server 0 received commit request.
+
+[15:53:01.574]	CRAQ Server 0 received commit request.
+
+[15:53:03.212]	CRAQ Server 0 received read request.
+
+[15:53:05.259]	CRAQ Server 0 received write request.
+
+[15:53:05.382]	CRAQ Server 0 received write request.
+
+[15:53:05.475]	CRAQ Server 0 received write request.
+
+[15:53:05.484]	CRAQ Server 0 received read request.
+
+[15:53:05.633]	CRAQ Server 0 received commit request.
+
+[15:53:05.698]	CRAQ Server 0 received commit request.
+
+[15:53:05.796]	CRAQ Server 0 received commit request.
+
+[15:53:07.428]	CRAQ Server 0 received read request.
+
