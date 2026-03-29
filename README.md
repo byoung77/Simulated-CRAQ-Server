@@ -103,6 +103,7 @@ By monitoring these logs side by side, you can observe:
 * timing and ordering of distributed events
 
 This multi-terminal `tail -f` setup provides the clearest view into how the CRAQ protocol operates in this simulation.
+
 ---
 
 ### Note on Timing
